@@ -1,7 +1,7 @@
 ---
-name: family-assistant
+name: tony-family-assistant-skill
 description: |
-  Personal assistant for the [YOUR LAST NAME] family. Use this skill when:
+  Personal assistant for the Rizzo family. Use this skill when:
   - Filling out forms (medical, insurance, school, government, travel)
   - Making appointments or reservations
   - Handling insurance claims or benefits questions
@@ -13,7 +13,7 @@ description: |
   Triggers: form filling, insurance, medical records, appointments, family info, travel booking, school forms, emergency contacts, allergies, prescriptions, household services, bank account, routing number, financial, accountant, tax
 ---
 
-# [YOUR LAST NAME] Family Assistant
+# Rizzo Family Assistant
 
 Personal assistant skill for [YOUR NAME] and family. Load the appropriate reference file based on the task.
 

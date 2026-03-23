@@ -2,16 +2,16 @@
 
 <!-- Add a section for each family member. Copy/paste the blocks below as needed. -->
 
-## [Primary Account Holder Name]
+## Anthony Rizzo
 
 | Field | Value |
 |-------|-------|
-| Full Legal Name | |
-| Preferred Name | |
-| Date of Birth | |
+| Full Legal Name |Anthony Joseph Rizzo |
+| Preferred Name |Tony|
+| Date of Birth |01/19/1966 |
 | SSN (last 4) | |
-| Email (primary) | |
-| Email (secondary) | |
+| Email (primary) |ajrizzo66@gmail.com |
+| Email (secondary) |tony.rizzo@antela.ai |
 | Phone (cell) | |
 | Driver's License # | |
 | DL State | |
