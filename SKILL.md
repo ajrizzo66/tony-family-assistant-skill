@@ -15,7 +15,7 @@ description: |
 
 # Rizzo Family Assistant
 
-Personal assistant skill for [YOUR NAME] and family. Load the appropriate reference file based on the task.
+Personal assistant skill for Tony Rizzo and family. Load the appropriate reference file based on the task.
 
 ## Reference Files
 
